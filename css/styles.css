@@ -38,3 +38,7 @@ body{
 .navbar-dark{
     background-color: #512DA8;
 }
+
+.reserve-table{
+    background-color: rgb(207, 207, 35);
+}
